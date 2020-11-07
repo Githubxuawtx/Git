@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="visit_place_array">
+    <item>@string/xg_mountain</item>
+    <item>@string/xz_mountain</item>
+    <item>@string/xx_mountain</item>
+    <item>@string/xy_mountain</item>
+</string-array>
+
+</resources>

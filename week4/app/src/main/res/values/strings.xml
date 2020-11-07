@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">week4</string>
+    <string-array name="visit_place_array">
+        <item>@string/e_mei_mountain</item>
+        <item>@string/qing_cheng_mountain</item>
+        <item>@string/xiao_tang_mountain</item>
+        <item>@string/san_qing_mountain</item>
+    </string-array>
+
+</resources>

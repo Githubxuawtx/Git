@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="姓名:"
+        android:textSize="28sp"
+        android:textColor="#000000"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="请输入姓名"
+        android:maxLines="3"
+        android:textColor="#000000"
+        android:textSize="22sp"
+        android:textStyle="italic"/>
+<RadioGroup
+    android:id="@+id/xin"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <RadioButton
+        android:id="@+id/man"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="男"
+        android:textSize="28sp"/>
+    <RadioButton
+        android:id="@+id/woman"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="女"
+        android:textSize="28sp"/>
+</RadioGroup>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="请选择兴趣爱好"
+        android:textSize="28sp"
+        android:textColor="#000000"/>
+
+    <CheckBox
+        android:id="@+id/yu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="羽毛球"
+        android:textSize="20sp"/>
+
+    <CheckBox
+        android:id="@+id/zu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="足球"
+        android:textSize="20sp"/>
+
+    <CheckBox
+        android:id="@+id/pin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="乒乓球"
+        android:textSize="20sp"/>
+
+    <CheckBox
+        android:id="@+id/lan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="篮球"
+        android:textSize="20sp"/>
+
+    <CheckBox
+        android:id="@+id/pai"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="排球"
+        android:textSize="20sp"/>
+
+</LinearLayout>
