@@ -1,0 +1,34 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".NewsContentActivity">
+
+    <fragment
+        android:id="@+id/news_content_fragment"
+        android:name="com.example.fragmentapplication.NewsContentFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".NewsContentActivity">
+
+    <fragment
+        android:id="@+id/news_content_fragment"
+        android:name="com.example.fragmentapplication.NewsContentFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+>>>>>>> f173405ede714da93af9ff830d4ea51bc578b80d
+</LinearLayout>

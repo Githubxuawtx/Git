@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="news_title" type="id" />
+    <item name="visibility_layout" type="id" />
+    <item name="news_content" type="id" />
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="news_title" type="id" />
+    <item name="visibility_layout" type="id" />
+    <item name="news_content" type="id" />
+>>>>>>> f173405ede714da93af9ff830d4ea51bc578b80d
+</resources>

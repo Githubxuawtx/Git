@@ -1,0 +1,21 @@
+<<<<<<< HEAD
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">layoutdome</string>
+    <string name="xg_mountain">小高山</string>
+    <string name="xz_mountain">小詹山</string>
+    <string name="xx_mountain">小肖山</string>
+    <string name="xy_mountain">小杨山</string>
+
+    <string name="your_hobbies_info">请选择您的兴趣爱好是：<xliff:g id="hobbies">%s</xliff:g></string>
+</resources>
+=======
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">layoutdome</string>
+    <string name="xg_mountain">小高山</string>
+    <string name="xz_mountain">小詹山</string>
+    <string name="xx_mountain">小肖山</string>
+    <string name="xy_mountain">小杨山</string>
+
+    <string name="your_hobbies_info">请选择您的兴趣爱好是：<xliff:g id="hobbies">%s</xliff:g></string>
+</resources>
+>>>>>>> f173405ede714da93af9ff830d4ea51bc578b80d

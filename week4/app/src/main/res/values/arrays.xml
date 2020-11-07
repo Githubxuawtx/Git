@@ -1,0 +1,23 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="vote_11">
+        <item>峨眉山</item>
+        <item>青城山</item>
+        <item>小汤山</item>
+        <item>三清山</item>
+    </string-array>
+
+</resources>
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="vote_11">
+        <item>峨眉山</item>
+        <item>青城山</item>
+        <item>小汤山</item>
+        <item>三清山</item>
+    </string-array>
+
+</resources>
+>>>>>>> f173405ede714da93af9ff830d4ea51bc578b80d

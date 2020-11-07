@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+include ':app'
+rootProject.name='FirstDay'
+=======
+include ':app'
+rootProject.name='FirstDay'
+>>>>>>> f173405ede714da93af9ff830d4ea51bc578b80d

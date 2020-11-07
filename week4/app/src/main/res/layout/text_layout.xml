@@ -1,0 +1,102 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<!--    <TextView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+<!--        android:text="姓名："-->
+<!--        android:textSize="28sp"-->
+<!--        android:textColor="#000000"/>-->
+
+<!--    <EditText-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+<!--        android:hint="请输入姓名"-->
+<!--        android:maxLines="2"-->
+<!--        android:textColor="#000000"-->
+<!--        android:textSize="20sp"-->
+<!--        android:textStyle="italic"/>-->
+
+<!--    <TextView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+<!--        android:text="请选择兴趣爱好："-->
+<!--        android:textColor="#FF8000"-->
+<!--        android:textSize="28sp" />-->
+
+    <CheckBox
+        android:id="@+id/like_shuttlecock"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="羽毛球"
+        android:textSize="19sp"/>
+     <CheckBox
+         android:id="@+id/like_baskteball"
+         android:layout_width="match_parent"
+         android:layout_height="match_parent"
+         android:text="打篮球"
+         android:textSize="18sp"/>
+    <CheckBox
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="乒乓球"
+        android:textSize="18sp"/>
+
+
+
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<!--    <TextView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+<!--        android:text="姓名："-->
+<!--        android:textSize="28sp"-->
+<!--        android:textColor="#000000"/>-->
+
+<!--    <EditText-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+<!--        android:hint="请输入姓名"-->
+<!--        android:maxLines="2"-->
+<!--        android:textColor="#000000"-->
+<!--        android:textSize="20sp"-->
+<!--        android:textStyle="italic"/>-->
+
+<!--    <TextView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+<!--        android:text="请选择兴趣爱好："-->
+<!--        android:textColor="#FF8000"-->
+<!--        android:textSize="28sp" />-->
+
+    <CheckBox
+        android:id="@+id/like_shuttlecock"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="羽毛球"
+        android:textSize="19sp"/>
+     <CheckBox
+         android:id="@+id/like_baskteball"
+         android:layout_width="match_parent"
+         android:layout_height="match_parent"
+         android:text="打篮球"
+         android:textSize="18sp"/>
+    <CheckBox
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="乒乓球"
+        android:textSize="18sp"/>
+
+
+
+>>>>>>> f173405ede714da93af9ff830d4ea51bc578b80d
+</LinearLayout>
