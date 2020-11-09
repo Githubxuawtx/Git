@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <component name="ProjectCodeStyleConfiguration">
   <code_scheme name="Project" version="173">
     <codeStyleSettings language="XML">
@@ -115,6 +116,8 @@
     </codeStyleSettings>
   </code_scheme>
 =======
+=======
+>>>>>>> f173405ede714da93af9ff830d4ea51bc578b80d
 <component name="ProjectCodeStyleConfiguration">
   <code_scheme name="Project" version="173">
     <codeStyleSettings language="XML">
@@ -230,5 +233,8 @@
       </arrangement>
     </codeStyleSettings>
   </code_scheme>
+<<<<<<< HEAD
+>>>>>>> f173405ede714da93af9ff830d4ea51bc578b80d
+=======
 >>>>>>> f173405ede714da93af9ff830d4ea51bc578b80d
 </component>

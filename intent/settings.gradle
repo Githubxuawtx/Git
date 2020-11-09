@@ -1,6 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 include ':app'
 rootProject.name='intent'
+=======
+include ':app'
+rootProject.name='intent'
+>>>>>>> f173405ede714da93af9ff830d4ea51bc578b80d
 =======
 include ':app'
 rootProject.name='intent'

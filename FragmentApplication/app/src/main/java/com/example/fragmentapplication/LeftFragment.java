@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 package com.example.fragmentapplication;
 
 import android.os.Bundle;
@@ -20,6 +21,8 @@ public class LeftFragment extends Fragment {
     }
 }
 =======
+=======
+>>>>>>> f173405ede714da93af9ff830d4ea51bc578b80d
 package com.example.fragmentapplication;
 
 import android.os.Bundle;
@@ -40,4 +43,7 @@ public class LeftFragment extends Fragment {
         return view;
     }
 }
+<<<<<<< HEAD
+>>>>>>> f173405ede714da93af9ff830d4ea51bc578b80d
+=======
 >>>>>>> f173405ede714da93af9ff830d4ea51bc578b80d

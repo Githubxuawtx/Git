@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 apply plugin: 'com.android.application'
 
 android {
@@ -32,6 +33,8 @@ dependencies {
 
 }
 =======
+=======
+>>>>>>> f173405ede714da93af9ff830d4ea51bc578b80d
 apply plugin: 'com.android.application'
 
 android {
@@ -64,4 +67,7 @@ dependencies {
 
 
 }
+<<<<<<< HEAD
+>>>>>>> f173405ede714da93af9ff830d4ea51bc578b80d
+=======
 >>>>>>> f173405ede714da93af9ff830d4ea51bc578b80d

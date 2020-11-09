@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 package com.example.myapp;
 
 import android.os.Bundle;
@@ -14,6 +15,8 @@ public class DialogActivity extends AppCompatActivity {
     }
 }
 =======
+=======
+>>>>>>> f173405ede714da93af9ff830d4ea51bc578b80d
 package com.example.myapp;
 
 import android.os.Bundle;
@@ -28,4 +31,7 @@ public class DialogActivity extends AppCompatActivity {
         setContentView(R.layout.dialog_layout);
     }
 }
+<<<<<<< HEAD
+>>>>>>> f173405ede714da93af9ff830d4ea51bc578b80d
+=======
 >>>>>>> f173405ede714da93af9ff830d4ea51bc578b80d

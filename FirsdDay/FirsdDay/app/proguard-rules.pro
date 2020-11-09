@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Add project specific ProGuard rules here.
 # You can control the set of applied configuration files using the
 # proguardFiles setting in build.gradle.
@@ -21,6 +22,8 @@
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
 =======
+=======
+>>>>>>> f173405ede714da93af9ff830d4ea51bc578b80d
 # Add project specific ProGuard rules here.
 # You can control the set of applied configuration files using the
 # proguardFiles setting in build.gradle.
@@ -42,4 +45,7 @@
 # If you keep the line number information, uncomment this to
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
+<<<<<<< HEAD
+>>>>>>> f173405ede714da93af9ff830d4ea51bc578b80d
+=======
 >>>>>>> f173405ede714da93af9ff830d4ea51bc578b80d

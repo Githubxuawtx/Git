@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">layoutdome</string>
     <string name="xg_mountain">小高山</string>
@@ -9,6 +10,8 @@
     <string name="your_hobbies_info">请选择您的兴趣爱好是：<xliff:g id="hobbies">%s</xliff:g></string>
 </resources>
 =======
+=======
+>>>>>>> f173405ede714da93af9ff830d4ea51bc578b80d
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">layoutdome</string>
     <string name="xg_mountain">小高山</string>
@@ -18,4 +21,7 @@
 
     <string name="your_hobbies_info">请选择您的兴趣爱好是：<xliff:g id="hobbies">%s</xliff:g></string>
 </resources>
+<<<<<<< HEAD
+>>>>>>> f173405ede714da93af9ff830d4ea51bc578b80d
+=======
 >>>>>>> f173405ede714da93af9ff830d4ea51bc578b80d

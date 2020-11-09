@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 package com.example.broadcastapplication;
 
 import org.junit.Test;
@@ -16,6 +17,8 @@ public class ExampleUnitTest {
         assertEquals(4, 2 + 2);
     }
 =======
+=======
+>>>>>>> f173405ede714da93af9ff830d4ea51bc578b80d
 package com.example.broadcastapplication;
 
 import org.junit.Test;
@@ -32,5 +35,8 @@ public class ExampleUnitTest {
     public void addition_isCorrect() {
         assertEquals(4, 2 + 2);
     }
+<<<<<<< HEAD
+>>>>>>> f173405ede714da93af9ff830d4ea51bc578b80d
+=======
 >>>>>>> f173405ede714da93af9ff830d4ea51bc578b80d
 }

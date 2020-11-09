@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 package com.example.fragmentapplication;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -42,6 +43,8 @@ public class FragmentActivity extends AppCompatActivity implements View.OnClickL
     }
 }
 =======
+=======
+>>>>>>> f173405ede714da93af9ff830d4ea51bc578b80d
 package com.example.fragmentapplication;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -84,4 +87,7 @@ public class FragmentActivity extends AppCompatActivity implements View.OnClickL
         transaction.commit();
     }
 }
+<<<<<<< HEAD
+>>>>>>> f173405ede714da93af9ff830d4ea51bc578b80d
+=======
 >>>>>>> f173405ede714da93af9ff830d4ea51bc578b80d

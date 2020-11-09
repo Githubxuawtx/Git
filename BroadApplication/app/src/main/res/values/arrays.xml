@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <resources>
     <!-- Reply Preference -->
     <string-array name="reply_entries">
@@ -11,6 +12,8 @@
         <item>reply_all</item>
     </string-array>
 =======
+=======
+>>>>>>> f173405ede714da93af9ff830d4ea51bc578b80d
 <resources>
     <!-- Reply Preference -->
     <string-array name="reply_entries">
@@ -22,5 +25,8 @@
         <item>reply</item>
         <item>reply_all</item>
     </string-array>
+<<<<<<< HEAD
+>>>>>>> f173405ede714da93af9ff830d4ea51bc578b80d
+=======
 >>>>>>> f173405ede714da93af9ff830d4ea51bc578b80d
 </resources>

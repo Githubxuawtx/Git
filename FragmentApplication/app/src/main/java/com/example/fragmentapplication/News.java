@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 package com.example.fragmentapplication;
 
 public class News {
@@ -22,6 +23,8 @@ public class News {
     }
 }
 =======
+=======
+>>>>>>> f173405ede714da93af9ff830d4ea51bc578b80d
 package com.example.fragmentapplication;
 
 public class News {
@@ -44,4 +47,7 @@ public class News {
         this.content = content;
     }
 }
+<<<<<<< HEAD
+>>>>>>> f173405ede714da93af9ff830d4ea51bc578b80d
+=======
 >>>>>>> f173405ede714da93af9ff830d4ea51bc578b80d

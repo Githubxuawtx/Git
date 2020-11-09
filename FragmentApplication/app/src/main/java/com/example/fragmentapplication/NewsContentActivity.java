@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 package com.example.fragmentapplication;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -27,6 +28,8 @@ public class NewsContentActivity extends AppCompatActivity {
     }
 }
 =======
+=======
+>>>>>>> f173405ede714da93af9ff830d4ea51bc578b80d
 package com.example.fragmentapplication;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -54,4 +57,7 @@ public class NewsContentActivity extends AppCompatActivity {
         newsContentFragment.refresh(newsTitle, newsContent);
     }
 }
+<<<<<<< HEAD
+>>>>>>> f173405ede714da93af9ff830d4ea51bc578b80d
+=======
 >>>>>>> f173405ede714da93af9ff830d4ea51bc578b80d

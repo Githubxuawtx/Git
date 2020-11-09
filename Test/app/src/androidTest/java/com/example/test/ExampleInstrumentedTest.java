@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 package com.example.test;
 
 import android.content.Context;
@@ -27,6 +28,8 @@ public class ExampleInstrumentedTest {
     }
 }
 =======
+=======
+>>>>>>> f173405ede714da93af9ff830d4ea51bc578b80d
 package com.example.test;
 
 import android.content.Context;
@@ -54,4 +57,7 @@ public class ExampleInstrumentedTest {
         assertEquals("com.example.test", appContext.getPackageName());
     }
 }
+<<<<<<< HEAD
+>>>>>>> f173405ede714da93af9ff830d4ea51bc578b80d
+=======
 >>>>>>> f173405ede714da93af9ff830d4ea51bc578b80d

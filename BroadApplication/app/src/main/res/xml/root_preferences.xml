@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <!--
   ~ Copyright 2018 The app Open Source Project
   ~
@@ -51,6 +52,8 @@
 
 </PreferenceScreen>
 =======
+=======
+>>>>>>> f173405ede714da93af9ff830d4ea51bc578b80d
 <!--
   ~ Copyright 2018 The app Open Source Project
   ~
@@ -102,4 +105,7 @@
     </PreferenceCategory>
 
 </PreferenceScreen>
+<<<<<<< HEAD
+>>>>>>> f173405ede714da93af9ff830d4ea51bc578b80d
+=======
 >>>>>>> f173405ede714da93af9ff830d4ea51bc578b80d

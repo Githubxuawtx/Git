@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 package com.example.myapp;
 
 import android.os.Parcel;
@@ -60,6 +61,8 @@ public class Account implements Parcelable, Serializable {
 
 }
 =======
+=======
+>>>>>>> f173405ede714da93af9ff830d4ea51bc578b80d
 package com.example.myapp;
 
 import android.os.Parcel;
@@ -120,4 +123,7 @@ public class Account implements Parcelable, Serializable {
     };
 
 }
+<<<<<<< HEAD
+>>>>>>> f173405ede714da93af9ff830d4ea51bc578b80d
+=======
 >>>>>>> f173405ede714da93af9ff830d4ea51bc578b80d
